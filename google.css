@@ -1,0 +1,62 @@
+/**{*/
+/*    border: 1px solid;*/
+/*}*/
+
+#hed1{
+    display: contents;
+}
+
+#hed2{
+    float: right;
+}
+
+#profile{
+    float: right;
+    display: contents;
+}
+
+#google{
+    text-align: center;
+    margin-bottom: 25px;
+}
+#form{
+    margin: 50px;
+}
+#box{
+    width: 100%;
+    padding: 7px;
+    border-radius: 50px;
+}
+
+#search{
+    background-color:#F2F2F2 ;
+    width: 25%;
+}
+
+#luck{
+    color: black;
+    background-color: #F2F2F2;
+    width: 25%;
+}
+
+#twobuttons{
+    margin: 8px;
+    display: inherit;
+    text-align: center;
+}
+
+#footerSection{
+display: flex;
+background-color: #F2F2F2;
+}
+
+#foot1{
+width: 50%;
+}
+
+
+#foot2{
+width: 50%;
+    float: right;
+    text-align: right;
+}
