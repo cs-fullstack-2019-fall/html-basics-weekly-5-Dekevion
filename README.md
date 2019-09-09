@@ -1,8 +1,7 @@
 ### GRADED COMMENTS:
-* Good start, but a lot of stuff unfinished.
-* Search form soesn't submit because no submit button in form and no 'ACTION' specified (see URL(s) provided to you in readme)
-* Search field doesn't limit to 100 max characters (maxlength="100")
-* Missing header and footer that duplicates what is on Google page
+* Good start, but some stuff unfinished.
+* Search form doesn't submit to the coogle search URL because no submit button in form and no 'ACTION' specified (see URL(s) provided to you in readme)
+* Header and footer there not syled like example Google search image.
 
 # HTML/CSS Weekly 5
 
